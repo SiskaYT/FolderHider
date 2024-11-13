@@ -24,7 +24,7 @@ def unbl0ck_access_t0_f0lders(f0lder_path):
 def restart_expl0rer():
     subprocess.Popen("explorer.exe")
 
-f0lder_path = "D:/!!duležite!!/Ahoj (nevíš nic)" #Here change the folder what do you want hide if someone will send wrong code
+f0lder_path = "C:/your/folder" #Here change the folder what do you want hide if someone will send wrong code
 
 bl0ck_access_t0_f0lders(f0lder_path)
 cl0se_all_expl0rer_windows()

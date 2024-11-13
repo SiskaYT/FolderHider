@@ -22,7 +22,7 @@ try:
     dáváj = int(input("Davaj:\n"))
     if hezl0 == dáváj:
         os.chdir("C:/your/place") #Here set place where is your folder saved.
-        os.startfile("C:/Program Files/Google Backup") #Folder what do you want open after adding correct code (c0d€.dll) .
+        os.startfile("C:/your/folder") #Folder what do you want open after adding correct code (c0d€.dll) .
     else:
         print("Something is wrong.")
 except ValueError:

@@ -19,7 +19,7 @@ with open("c0d€.dll", "w", encoding="utf-8") as file:
     file.write("")
 
 try:
-    dáváj = int(input("Davaj:\n"))
+    dáváj = int(input("Code:\n"))
     if hezl0 == dáváj:
         os.chdir("C:/your/place") #Here set place where is your folder saved.
         os.startfile("C:/your/folder") #Folder what do you want open after adding correct code (c0d€.dll) .

@@ -1,6 +1,7 @@
 # FolderHider
 Do you want to make your file safe? Use this program!
 # Requirements: you need (VSC) Visual Studio Code
+#sometimes you have to run it as administrator
 
 # How to use it (also in "!how to use it.txt!"):
 !You need Visual Studio Code! (VSC)

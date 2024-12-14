@@ -1,4 +1,5 @@
 !You need Visual Studio Code! (VSC)
+!sometimes you have to run it as administrator!
 1. start file "set-up.bat"
 2. double tap on "FolderHider.py" and "bl0cag€.py"
 3. change code there is # (in files "FolderHider.py" and "bl0cag€.py)
